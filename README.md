@@ -1,2 +1,1 @@
-# python
-redirects to python.drwhy.ai
+Redirect to dalex.drwhy.ai/python
